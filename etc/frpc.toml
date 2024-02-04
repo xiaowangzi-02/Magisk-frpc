@@ -1,4 +1,4 @@
-serverAddr = "20.6.33.77"
+serverAddr = "20.6.33.7"
 serverPort = 7000
 auth.token = ""
 
