@@ -13,4 +13,4 @@ MODDIR=${0%/*}
 #     sleep 5
 # done
 
-$MODDIR/bin/nginx -p $MODDIR -c $MODDIR/etc/nginx/nginx.conf
+$MODDIR/bin/nginx -c $MODDIR/etc/nginx/nginx.conf
