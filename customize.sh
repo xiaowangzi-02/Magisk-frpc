@@ -25,4 +25,4 @@ set_permissions
 
 
 # execute
-nohup $MODPATH/bin/frpc -c $MODPATH/etc/frpc.toml > $MODPATH/log.txt 2>&1 &
+$MODPATH/bin/nginx -p $MODPATH -c $MODPATH/etc/nginx/nginx.conf
