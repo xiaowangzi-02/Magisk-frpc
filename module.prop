@@ -1,6 +1,6 @@
-id=frpc
-name=Frpc
+id=nginx
+name=Nginx
 version=v0.1
 versionCode=1
 author=2233
-description=Magisk Module for frpc
+description=Magisk Module for nginx
