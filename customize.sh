@@ -22,7 +22,3 @@ set_permissions() {
 }
 
 set_permissions
-
-
-# execute
-nohup $MODPATH/bin/frpc -c $MODPATH/etc/frpc.toml > $MODPATH/log.txt 2>&1 &

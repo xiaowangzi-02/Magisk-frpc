@@ -1,6 +1,6 @@
-id=frpc
-name=Frpc
+id=tinyproxy
+name=Tinyproxy
 version=v1.0
 versionCode=1
 author=2233
-description=Magisk Module for frpc
+description=Magisk Module for tinyproxy
